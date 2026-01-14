@@ -1,10 +1,20 @@
 ## Hi there, I'm Ramandeep Kaur Saini 👋
 
 
-**ramandeep-12/ramandeep-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:🚀 **Software Developer | Data Engineering & Analytics Enthusiast | MAC (Co-op) Student**
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  weight=500&
+  size=22&
+  pause=1200&
+  color=36BCF7&
+  center=true&
+  vCenter=true&
+  width=900&
+  lines=🚀+Software+Developer;
+  Data+Engineering+%26+Analytics+Enthusiast;
+  MAC+(Co-op)+Student" />
+</p>
 ---
 
 ## 👩‍💻 About Me
@@ -17,8 +27,8 @@ Here are some ideas to get you started:🚀 **Software Developer | Data Engineer
 🤝 Enjoy collaborating in Agile teams to deliver reliable, maintainable software  
 ⚡ Fun fact: I enjoy debugging complex issues as much as building new features!
 
-📫 **Reach me at:** saini7d@uwindsor.ca  
-🔗 **LinkedIn:** *(add your LinkedIn URL)*  
+📫 **Reach me at:** sainiramandeepkaur55@gmail.com  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/ramandeep-kaur-7218b3212/*  
 
 ---
 
