@@ -1,6 +1,6 @@
 ## Hi there, I'm Ramandeep Kaur Saini 👋
 
-<!--
+
 **ramandeep-12/ramandeep-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:🚀 **Software Developer | Data Engineering & Analytics Enthusiast | MAC (Co-op) Student**
@@ -96,4 +96,4 @@ Backend & Full-Stack Development · Data Engineering · Cloud Platforms · Distr
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
