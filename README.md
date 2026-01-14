@@ -33,6 +33,7 @@ Here are some ideas to get you started:🚀 **Software Developer | Data Engineer
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -49,6 +50,7 @@ Here are some ideas to get you started:🚀 **Software Developer | Data Engineer
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-Data%20Modeling-blue)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ---
 
@@ -88,12 +90,4 @@ Backend & Full-Stack Development · Data Engineering · Cloud Platforms · Distr
 
 ⭐ *Thanks for visiting my GitHub! Feel free to connect or explore my repositories.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
