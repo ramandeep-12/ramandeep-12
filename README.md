@@ -1,7 +1,7 @@
 ## Hi there, I'm Ramandeep Kaur Saini 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Data+Engineering+%26+Analytics+Enthusiast;MAC+(Co-op)+Student" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Data+Engineering+%26+Analytics+Enthusiast;AI+%26+Machine+Learning+Enthusiast" />
 </p>
 
 ---
