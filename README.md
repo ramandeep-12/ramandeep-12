@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 🌍 Master of Applied Computing (Co-op) student at the University of Windsor  
-💡 2+ years of professional experience as an Associate Software Developer  
+💡 2 years of professional experience as an Associate Software Developer  
 🧠 Strong foundation in software engineering, backend systems, and data pipelines  
 💻 Experienced in building scalable web applications, APIs, and data-driven solutions  
 🌱 Actively learning cloud platforms, data engineering, and system design  
