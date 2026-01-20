@@ -12,7 +12,7 @@
 💡 2 years of professional experience as an Associate Software Developer  
 🧠 Strong foundation in software engineering, backend systems, and data pipelines  
 🤖 Hands-on experience building AI/LLM applications using Hugging Face, Ollama, and Streamlit  
-💻 Experienced in developing scalable web applications, APIs, and data-driven solutions
+💻 Experienced in developing scalable web applications, APIs, and data-driven solutions  
 🌱 Actively learning cloud platforms, data engineering, and system design  
 🤝 Enjoy collaborating in Agile teams to deliver reliable, maintainable software  
 ⚡ Fun fact: I enjoy debugging complex issues as much as building new features!
