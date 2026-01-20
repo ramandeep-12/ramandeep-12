@@ -11,6 +11,7 @@
 🌍 Master of Applied Computing (Co-op) student at the University of Windsor  
 💡 2 years of professional experience as an Associate Software Developer  
 🧠 Strong foundation in software engineering, backend systems, and data pipelines  
+🤖 Hands-on experience with AI/LLM applications using Hugging Face, Ollama, and Streamlit
 💻 Experienced in building scalable web applications, APIs, and data-driven solutions  
 🌱 Actively learning cloud platforms, data engineering, and system design  
 🤝 Enjoy collaborating in Agile teams to deliver reliable, maintainable software  
@@ -22,6 +23,8 @@
 ---
 
 ## 🧰 Tech Stack
+
+
 
 ### 💻 Programming & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -62,6 +65,13 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
+### 🗄️ Databases & Data Modeling
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-Data%20Modeling-blue)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ---
 
 ### ☁️ Cloud & DevOps
