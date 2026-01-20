@@ -11,7 +11,7 @@
 🌍 Master of Applied Computing (Co-op) student at the University of Windsor  
 💡 2 years of professional experience as an Associate Software Developer  
 🧠 Strong foundation in software engineering, backend systems, and data pipelines  
-🤖 Hands-on experience with AI/LLM applications using Hugging Face, Ollama, and Streamlit
+🤖 Hands-on experience with AI/LLM applications using Hugging Face, Ollama, and Streamlit 
 💻 Experienced in building scalable web applications, APIs, and data-driven solutions  
 🌱 Actively learning cloud platforms, data engineering, and system design  
 🤝 Enjoy collaborating in Agile teams to deliver reliable, maintainable software  
@@ -64,6 +64,19 @@
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+
+### 🤖 AI & LLM Applications
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-blueviolet)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-NLP-orange)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Optimization-success)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
 
 ### 🗄️ Databases & Data Modeling
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
